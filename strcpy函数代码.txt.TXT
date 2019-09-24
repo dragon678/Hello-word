@@ -1,0 +1,27 @@
+
+#include<stdlib.h>
+
+int main(){
+
+int a ;
+
+int b;
+
+int c;
+
+a=5;
+
+b=6;
+
+c=a+b;
+
+printf("%d",c);
+
+return 0;
+
+}
+
+/**
+±¾µØ±à¼­
+
+**/
