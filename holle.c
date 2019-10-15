@@ -32,7 +32,7 @@ int main(void)
 
   } 
 
-  return0; 
+  return 0; 
 
 } 
  
